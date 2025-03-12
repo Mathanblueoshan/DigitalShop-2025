@@ -1,0 +1,23 @@
+{
+  "name": "digital-shop",
+  "version": "1.0.0",
+  "description": "e-commerce website for vendors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathanblueoshan/DigitalShop-2025.git"
+  },
+  "keywords": [
+    "digital",
+    "shop"
+  ],
+  "author": "Mathan Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathanblueoshan/DigitalShop-2025/issues"
+  },
+  "homepage": "https://github.com/Mathanblueoshan/DigitalShop-2025#readme"
+}
